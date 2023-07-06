@@ -1,0 +1,1 @@
+AWS_SESSION_TOKEN="session.token"
